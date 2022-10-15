@@ -67,6 +67,8 @@
 |------|----|
 |![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sivakajan-tech&theme=buefy&show_icons=true)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sivakajan-tech&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakajan-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--a href="https://www.linkedin.com/in/sivakajan-sivaparan-73791a195/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
 <a href="https://wa.me/94763068411"><img src="./doc/WhatsApp.png" alt="drawing" width="50"/></a>
 <a href="https://www.facebook.com/sivakajan456/"><img src="./doc/Facebook.png" alt="drawing" width="40"/></a>&nbsp;&nbsp;
