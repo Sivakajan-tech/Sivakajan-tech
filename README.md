@@ -84,13 +84,13 @@
 
 ### 🔥 My Stats :
 
-|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kajanan1212&theme=light&background=ffffff)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kajanan1212&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|
+|[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=sivakajan-tech&theme=light&background=ffffff)](https://git.io/streak-stats)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakajan-tech&layout=compact&theme=vision-friendly-light)](https://github.com/anuraghazra/github-readme-stats)|
 |------|----|
 |![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sivakajan-tech&theme=buefy&show_icons=true)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sivakajan-tech&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
 
 <!--a href="https://www.linkedin.com/in/sivakajan-sivaparan-73791a195/"><img src="./doc/Linkedin.png" alt="drawing" width="40"/></a>
 <a href="https://wa.me/94763068411"><img src="./doc/WhatsApp.png" alt="drawing" width="50"/></a>
-<a href="https://www.facebook.com/selvanesan.kajanan.9](https://www.facebook.com/sivakajan456/"><img src="./doc/Facebook.png" alt="drawing" width="40"/></a>&nbsp;&nbsp;
+<a href="https://www.facebook.com/sivakajan456/"><img src="./doc/Facebook.png" alt="drawing" width="40"/></a>&nbsp;&nbsp;
 <!--a href="mailto: sivakajan.19@cse.mrt.ac.lk"><img src="./doc/Gmail.png" alt="drawing" width="40"/></a-->
 
 <!---
