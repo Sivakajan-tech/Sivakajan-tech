@@ -8,7 +8,7 @@
   Hey there 🤙
   <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="-10px"/-->
   <br /> <br />
-  <img src="https://komarev.com/ghpvc/?username=kajanan1212&style=flat-square&color=blue" alt="views" width="200px"/>
+  <img src="https://komarev.com/ghpvc/?username=sivakajan-tech&style=flat-square&color=blue" alt="views" width="200px"/>
 </h3>
 
 
@@ -23,17 +23,14 @@
 
 ### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
 <div id="badges">
-  <a href="https://www.linkedin.com/in/kajanan-selvanesan/">
+  <a href="https://www.linkedin.com/in/sivakajan-sivaparan-73791a195/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="mailto: kajananselvanesan@gmail.com">
+  <a href="mailto: sivakajan.19@cse.mrt.ac.lk">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://wa.me/94763068411">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
-  </a>
-  <a href="https://www.kaggle.com/kajananselvanesan/">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
   </a>
   <!--a href="https://wa.me/94763068411">
     <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="Viber Badge"/>
