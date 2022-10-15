@@ -29,27 +29,9 @@
   <a href="mailto: sivakajan.19@cse.mrt.ac.lk">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://wa.me/94763068411">
+  <a href="https://wa.me/94763026718">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Whatsapp Badge"/>
   </a>
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white" alt="Viber Badge"/>
-  </a-->
-  <!--a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://aleen42.github.io/badges/src/stackoverflow.svg" alt="stackoverflow Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle Badge"/>
-  </a-->
-  <!--a href="https://wa.me/94763068411">
-    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium Badge"/>
-  </a-->
 </div>
 
 ---
