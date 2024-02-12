@@ -1,24 +1,19 @@
+![MasterHead](https://i2.wp.com/blog.magmalabs.io/wp-content/uploads/2021/11/Gif-horizontal.gif?fit=1500%2C534&ssl=1)
 
-<!--p align="center">
-  <img width="300" src="./doc/bg.gif"> <!--datascientist.png>
-</p-->
-|<img width="400" src="./doc/welcome.gif">|<img width="450" src="./doc/bg.gif">|
-|-----|-----|
-<h3 align="center">
-  Hey there 🤙
-  <!--img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="-10px"/-->
-  <br /> <br />
-  <img src="https://komarev.com/ghpvc/?username=sivakajan-tech&style=flat-square&color=blue" alt="views" width="200px"/>
-</h3>
+<h1 align="center">
+    <a target="_blank" rel="noopener" href='https://github.com/Sivakajan-tech' >
+    Hi there, I'm Sivakajan Sivaparan 👋
+    </a>
+</h1>
 
+## I'm a Student and a Developer!!! 
 
----
-<!--
-### 👨‍💻 About Me :
-- 👀 I’m interested in the Data Science field.
-- 🌱 I’m currently learning Data Science and Engineering at University of Moratuwa
-- 💞️ I’m looking to collaborate on Machine Learning or Deep Learning projects.
--->
+- 💻 I’m currently studying at the Department of Computer Science and Engineering at the University of Moratuwa
+- 📚 I'm passionate about learning new technologies writing articles
+- 👀 I'm interested in Competitive Programming, Web Development and Machine Learning
+- 🔭 I’m seeking ways to expand my knowledge
+- 🎶 I love to listen songs in my leisure time
+
 ---
 
 ### Connect with Me :<img src="./doc/Connect-With-Me.gif" alt="drawing" width="50"/>
