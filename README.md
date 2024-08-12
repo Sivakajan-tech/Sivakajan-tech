@@ -59,6 +59,7 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwrite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" alt="gh-actions" width="40" height="40"/>&nbsp;
 </div>
 
 ---
