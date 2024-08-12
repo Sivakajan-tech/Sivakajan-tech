@@ -67,7 +67,7 @@
 ### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=sivakajan-tech)](https://git.io/streak-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakajan-tech&layout=compact&theme=vision-friendly-light&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
 |------|----|
-|![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sivakajan-tech&theme=buefy&show_icons=true)|[![Ryo-ma's github trophy](https://github-profile-trophy.vercel.app/?username=sivakajan-tech&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)|
+|![Your Repository's Stats](https://github-readme-stats.vercel.app/api?username=sivakajan-tech&theme=buefy&show_icons=true)|
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sivakajan-tech&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  -->
