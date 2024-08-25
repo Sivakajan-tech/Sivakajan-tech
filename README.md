@@ -58,9 +58,23 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Pytest_logo.svg" alt="pytest" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/playwright/playwright-original.svg" alt="playwrite" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/canva/canva-original.svg" alt="canva" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="aws" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/githubactions/githubactions-plain.svg" alt="gh-actions" width="40" height="40"/>&nbsp;
 </div>
 
 ---
+
+<details>
+<summary><h3  style="display:inline-block">🎖️Badges:</h3></summary>
+<img src="static/badges/Skill_401209_1.png" height="150" width="125">
+<img src="static/badges/Course_7115534__7754064.png" height="150" width="125">
+<img src="static/badges/Course_7263919__7906421.png" height="150" width="125">
+<img src="static/badges/Course_7857614__8510550.png" height="150" width="125">
+<img src="static/badges/Course_8793613__9459189.png" height="150" width="125">
+</details>
+
+---
+
 
 ### 🔥 My Stats :
 [![GitHub Streak](https://streak-stats.demolab.com?user=sivakajan-tech)](https://git.io/streak-stats) |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sivakajan-tech&layout=compact&theme=vision-friendly-light&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)|
