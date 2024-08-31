@@ -66,11 +66,13 @@
 
 <details>
 <summary><h3  style="display:inline-block">🎖️Badges:</h3></summary>
-<img src="static/badges/Skill_401209_1.png" height="150" width="125">
-<img src="static/badges/Course_7115534__7754064.png" height="150" width="125">
-<img src="static/badges/Course_7263919__7906421.png" height="150" width="125">
-<img src="static/badges/Course_7857614__8510550.png" height="150" width="125">
-<img src="static/badges/Course_8793613__9459189.png" height="150" width="125">
+<img src="static/badges/Skill_401209_1.png" height="150" width="125"/>
+<img src="static/badges/Course_7115534__7754064.png" height="150" width="125"/>
+<img src="static/badges/Course_7263919__7906421.png" height="150" width="125"/>
+<img src="static/badges/Course_8828370__9496309.png" height="150" width="125"/>
+<img src="static/badges/Course_9369330__10043275.png" height="150" width="125"/>
+<img src="static/badges/Course_7857614__8510550.png" height="150" width="125"/>
+<img src="static/badges/Course_8793613__9459189.png" height="150" width="125"/>
 </details>
 
 ---
